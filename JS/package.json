@@ -1,0 +1,11 @@
+{
+  "name": "prompt-sync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "learner.js",
+  "scripts": {
+    "test": "node learner.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
